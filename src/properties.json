@@ -1,0 +1,5 @@
+{
+    "baseURL" : "https://api.napster.com/v2.0/",
+    "apikey" : "YjMxZjQwMzMtMjhlYS00MjRmLWI4YTYtYzZjMzAwNjgxNTEy",
+    "imgSource" : "http://direct.rhapsody.com/imageserver/v2/albums/"
+}
